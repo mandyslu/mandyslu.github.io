@@ -17,10 +17,30 @@ Publications and Projects
 ======
 
 - [Metadata Normalization](https://arxiv.org/abs/2307.14430)<br>
-  <span style="font-size:4mm;">**Mandy Lu**, Qingqyu Zhao, Jiequan Zhang, Kilian M. Pohl, Li Fei-Fei, Juan Carlos Niebles, Ehsan Adeli. *Conference on Computer Vision and Pattern Recognition (CVPR)*, 2021. </span><br>
-  <span style="font-size:4mm;">[paper]([https://arxiv.org/pdf/2307.14430.pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Lu_Metadata_Normalization_CVPR_2021_paper.pdf)) | [code](https://github.com/HazyResearch/skill-it) | [Talk](https://www.youtube.com/watch?v=NX4Xz86khUE&ab_channel=MandyLu) </span>
+  <span style="font-size:4mm;">**Mandy Lu**, Qingqyu Zhao, Jiequan Zhang, Kilian M Pohl, Li Fei-Fei, Juan Carlos Niebles, Ehsan Adeli. *Conference on Computer Vision and Pattern Recognition (CVPR)*, 2021. </span><br>
+  <span style="font-size:4mm;">[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lu_Metadata_Normalization_CVPR_2021_paper.pdf) | [code](https://github.com/mlu355/MetadataNorm) | [Talk](https://www.youtube.com/watch?v=NX4Xz86khUE&ab_channel=MandyLu) </span>
+
+- [Quantifying Parkinson’s Disease Motor Severity Under Uncertainty Using MDS-UPDRS Videos](https://pmc.ncbi.nlm.nih.gov/articles/PMC8453121/)<br>
+  <span style="font-size:4mm;">**Mandy Lu**, Qingyu Zhao, Kathleen L Poston, Edith V Sullivan, Adolf Pfefferbaum, Marian Shahid, Maya Katz, Leila Montaser Kouhsari, Kevin Schulman, Arnold Milstein, Juan Carlos Niebles, Victor W Henderson, Li Fei-Fei, Kilian M Pohl, Ehsan Adeli. *Medical image analysis*, Volume 73, 2021. </span><br>
+  <span style="font-size:4mm;">[paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC8453121/) | [code](https://github.com/mlu355/PD-Motor-Severity-Estimation)  </span>
+
+- [Vision-Based Estimation of MDS-UPDRS Gait Scores for Assessing Parkinson’s Disease Motor Severity](https://pmc.ncbi.nlm.nih.gov/articles/PMC7585545/)<br>
+  <span style="font-size:4mm;">**Mandy Lu**, Kathleen Poston, Adolf Pfefferbaum, Edith V Sullivan, Li Fei-Fei, Kilian M Pohl, Juan Carlos Niebles, Ehsan Adeli. *Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 23rd International Conference, Springer International Publishing, 2020. </span><br>
+  <span style="font-size:4mm;">[paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC7585545/) | [code](https://github.com/mlu355/PD-Motor-Severity-Estimation)  </span>
+
+- [Automated abnormality detection in lower extremity radiographs using deep learning](https://www.nature.com/articles/s42256-019-0126-0)<br>
+  <span style="font-size:4mm;">Maya Varma, **Mandy Lu**, Rachel Gardner, Jared Dunnmon, Nishith Khandwala, Pranav Rajpurkar, Jin Long, Christopher Beaulieu, Katie Shpanskaya, Li Fei-Fei, Matthew P Lungren, Bhavik N Patel. *Nature Machine Intelligence*, . </span><br>
+  <span style="font-size:4mm;">[paper](https://www.nature.com/articles/s42256-019-0126-0), Vol 1, Issue 12, 2019. </span>
+
+- [Automatic Estimation of MDS-UPDRS Gait Scores from Videos with Multi-Rater Disagreements] <br>
+  <span style="font-size:4mm;">Ehsan Adeli, Edith V Sullivan, **Mandy Lu**, Qingqu Zhao, L Montaser Kouhsari, Maya Katz, Adolf Pfefferbaum, Kilian M Pohl, Victor W Henderson, Kathleen Poston. *Movement Disorders*, Vol 36, 2021. </span><br>
 
 
+Patents
+======
+
+- [U.S. Patent Application 63037526. Estimation of Parkinson's Disease Gait Impairment Severity from Videos Using MDS-UPDRS.] <br>
+  <span style="font-size:4mm;">Mandy Lu, Ehsan Adeli-Mosabbeb, Kathleen Poston, Juan Carlos Niebles, filed June 10, 2020. Patent Pending. </span><br>
 
 
 
