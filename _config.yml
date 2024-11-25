@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot_full.jpeg"
   name             : "Mandy Lu"
   pronouns         : # example: "she/her"  
   bio              : "Email: mlu355 + at + gmail + dot + com"
