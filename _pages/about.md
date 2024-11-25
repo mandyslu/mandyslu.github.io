@@ -39,7 +39,7 @@ Publications and Projects
 Patents
 ======
 
-- **U.S. Patent Application 63037526. Estimation of Parkinson's Disease Gait Impairment Severity from Videos Using MDS-UPDRS.** <br>
+- [U.S. Patent Application 63037526. Estimation of Parkinson's Disease Gait Impairment Severity from Videos Using MDS-UPDRS.](https://patents.google.com/patent/US11918370B2/en) <br>
   <span style="font-size:4mm;">Mandy Lu, Ehsan Adeli-Mosabbeb, Kathleen Poston, Juan Carlos Niebles, filed June 10, 2020. Patent Pending. </span><br>
 
 
