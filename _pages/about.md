@@ -29,8 +29,8 @@ Publications and Projects
   <span style="font-size:4mm;">[paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC7585545/) | [code](https://github.com/mlu355/PD-Motor-Severity-Estimation)  </span>
 
 - [Automated abnormality detection in lower extremity radiographs using deep learning](https://www.nature.com/articles/s42256-019-0126-0)<br>
-  <span style="font-size:4mm;">Maya Varma, **Mandy Lu**, Rachel Gardner, Jared Dunnmon, Nishith Khandwala, Pranav Rajpurkar, Jin Long, Christopher Beaulieu, Katie Shpanskaya, Li Fei-Fei, Matthew P Lungren, Bhavik N Patel. *Nature Machine Intelligence*, . </span><br>
-  <span style="font-size:4mm;">[paper](https://www.nature.com/articles/s42256-019-0126-0), Vol 1, Issue 12, 2019. </span>
+  <span style="font-size:4mm;">Maya Varma, **Mandy Lu**, Rachel Gardner, Jared Dunnmon, Nishith Khandwala, Pranav Rajpurkar, Jin Long, Christopher Beaulieu, Katie Shpanskaya, Li Fei-Fei, Matthew P Lungren, Bhavik N Patel. *Nature Machine Intelligence*, Vol 1, Issue 12, 2019. </span><br>
+  <span style="font-size:4mm;">[paper](https://www.nature.com/articles/s42256-019-0126-0) </span>
 
 - [Automatic Estimation of MDS-UPDRS Gait Scores from Videos with Multi-Rater Disagreements] <br>
   <span style="font-size:4mm;">Ehsan Adeli, Edith V Sullivan, **Mandy Lu**, Qingqu Zhao, L Montaser Kouhsari, Maya Katz, Adolf Pfefferbaum, Kilian M Pohl, Victor W Henderson, Kathleen Poston. *Movement Disorders*, Vol 36, 2021. </span><br>
