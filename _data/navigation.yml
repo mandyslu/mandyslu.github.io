@@ -5,6 +5,9 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "CV"
+    url: /files/mandy_academic_cv.pdf
+
   - title: "Personal"
     url: /misc/
 
