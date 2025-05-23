@@ -16,7 +16,7 @@ I received a dual bachelor's degree in Math and Computer Science and a master's 
 Publications
 ======
 
-- [Metadata Normalization](https://arxiv.org/abs/2307.14430)<br>
+- [Metadata Normalization](https://openaccess.thecvf.com/content/CVPR2021/papers/Lu_Metadata_Normalization_CVPR_2021_paper.pdf)<br>
   <span style="font-size:4mm;">**Mandy Lu**, Qingqyu Zhao, Jiequan Zhang, Kilian M Pohl, Li Fei-Fei, Juan Carlos Niebles, Ehsan Adeli. *Conference on Computer Vision and Pattern Recognition (CVPR)*, 2021. </span><br>
   <span style="font-size:4mm;">[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lu_Metadata_Normalization_CVPR_2021_paper.pdf) | [code](https://github.com/mlu355/MetadataNorm) | [Talk](https://www.youtube.com/watch?v=NX4Xz86khUE&ab_channel=MandyLu) </span>
 
